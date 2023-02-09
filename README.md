@@ -13,8 +13,6 @@ N/A
 
 Each section contains notes about HTML, CSS, Git, and Javascript, respectively. Additionally, opening the DevTools console will reveal the Javascript running, which will choose from the available topics for us to study first.
 
-![alt text](assets/images/screenshot.png)
-
 ## Credits
 
 N/A
